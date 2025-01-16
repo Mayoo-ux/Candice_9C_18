@@ -1,0 +1,27 @@
+body{
+    margin: 0px;
+}
+header{
+    display:flex;
+    justify-content:space-between;
+    background-color:black;
+    width:100%;
+    font-size: 30px;
+    padding: 10px 15px;
+}
+
+nav a{
+    padding: 10px 15px;
+    color: white;
+    float:right;
+}
+
+nav a:hover{
+    background-color:grey;
+}
+.banner{
+    float:left;
+    color:white;
+    font-size: 30px;
+    padding: 10px 15px;
+}
